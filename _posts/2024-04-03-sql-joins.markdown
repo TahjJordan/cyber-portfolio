@@ -9,4 +9,4 @@ alt: image-alt
 project-url: https://drive.google.com/file/d/1RLtkJqYwvzCPNEYF_-5RkJ3DIQuNApIM/view?usp=drive_link
 
 # Once you've completed your project, update the 'description' below to this one: Implemented various JOIN commands (inner, left, right, self, and cross) in MySQL, utilizing UNION and UNION ALL to efficiently combine and query data from multiple tables.
-description: Implemented various JOIN commands (inner, left, right) in MySQL to efficiently combine and query data from multiple tables.
+description: Implemented various JOIN commands (inner, left, right, self, and cross) in MySQL, utilizing UNION and UNION ALL to efficiently combine and query data from multiple tables.
